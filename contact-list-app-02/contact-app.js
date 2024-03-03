@@ -1,4 +1,11 @@
 
+/*
+======================== এই অংশটুকু প্রোজেক্ট রিলেটেড basic knowledge পাওয়ার জন্য ========================
+*/
+
+/*
+
+
 let box = document.getElementById('box');
 
 
@@ -48,10 +55,14 @@ btn.onclick = function() {
 }
 */
 
-btn.addEventListener('click', function() {
-    console.log(this);
-})
+// btn.addEventListener('click', function() {
+//     console.log(this);
+// })
 
 
+
+/*
+= = = = = = = = = = Project Related Codign Starts Here = = = = = = = = = = 
+*/
 
 
